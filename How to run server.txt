@@ -1,0 +1,5 @@
+1. cd ./my-app : npm start
+2. cd  ./my-app./backend : node server.js 
+
+backend
+http://localhost/phpmyadmin
